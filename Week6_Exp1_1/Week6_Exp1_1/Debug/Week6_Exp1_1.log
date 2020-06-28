@@ -1,0 +1,9 @@
+﻿  Week6_Exp1_1View.cpp
+i:\vcexp\week6_exp1_1\week6_exp1_1\week6_exp1_1view.cpp(102): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+i:\vcexp\week6_exp1_1\week6_exp1_1\week6_exp1_1view.cpp(106): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+i:\vcexp\week6_exp1_1\week6_exp1_1\week6_exp1_1view.cpp(111): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  Week6_Exp1_1.cpp
+  Week6_Exp1_1.vcxproj -> I:\VCExp\Week6_Exp1_1\Debug\Week6_Exp1_1.exe
+  Week6_Exp1_1.vcxproj -> I:\VCExp\Week6_Exp1_1\Debug\Week6_Exp1_1.pdb (Full PDB)
